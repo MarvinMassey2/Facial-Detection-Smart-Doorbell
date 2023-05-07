@@ -1,8 +1,3 @@
-#Modified by smartbuilds.io
-#Date: 23.10.20
-#for more haarcascade examples visit:
-#https://github.com/opencv/opencv/tree/master/data/haarcascades
-
 # Importing Packages
 import cv2
 
