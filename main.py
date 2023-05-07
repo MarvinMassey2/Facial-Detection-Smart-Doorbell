@@ -1,10 +1,3 @@
-#Modified by smartbuilds.io
-#Date: 27.09.20
-#Desc: This Example Stream works with Face Detection using Haarcascasde Models
-# Also Compatible with Pi HQ Camera. This can be modified to suit your application.
-#Implented for one client device to stream
-# main.py
-
 # import the necessary packages
 from flask import Flask, render_template, Response, request
 from camera import VideoCamera
